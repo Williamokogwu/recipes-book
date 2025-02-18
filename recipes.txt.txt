@@ -1,2 +1,9 @@
 Carnitas Tacos
 Fried chicken
+Brisket
+Aloha Tacos
+
+
+func generateRandomNumber(upperValue: Int) -> Int{
+    Int.random(in: 1..<upperValue)
+}
